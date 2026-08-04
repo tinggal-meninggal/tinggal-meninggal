@@ -6,5 +6,5 @@
 
 <div align="center">
 
-  [rentry](https://rentry.co/SIMPLETERMSFOR427) [guthib](https://guthib.com/) [greentry](https://rentry.co/greenmapradana)</div>
+ [guthib](https://guthib.com/) [greentry](https://rentry.co/greenmapradana)</div>
 
