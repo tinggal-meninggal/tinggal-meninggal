@@ -9,5 +9,5 @@
 <div align="center"> 
 
 
- [g<ins>uthib</ins>](https://guthib.com/) [g<ins>reentry</ins>](https://rentry.co/greenmapradana)</div>
+ [guthib](https://guthib.com/) <ins>[greentry](https://rentry.co/greenmapradana)</ins></div>
 
